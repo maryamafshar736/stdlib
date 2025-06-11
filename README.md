@@ -17,8 +17,6 @@ limitations under the License.
 
 <!-- Section to include announcements. If section is included, add a horizontal rule *after* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
-<section class="announcement">
-
 </section>
 
 <!-- /.announcement -->
