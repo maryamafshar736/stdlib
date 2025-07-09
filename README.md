@@ -22,7 +22,6 @@ You may obtain a copy of the License at
         <br>
         <br>
         <a href="https://stdlib.io/" />
-            <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@9f7d30f089ecc458a8b836a75afab75caf5c0b36/docs/assets/logo_banner.svg" alt="stdlib logo">
         </a>
         <br>
         <br>
