@@ -18,7 +18,6 @@ You may obtain a copy of the License at
 <!-- Section to include assets such as the project logo, etc. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="banner">
-    <div class="image" align="center">
         <br>
         <br>
         <a href="https://stdlib.io/" />
